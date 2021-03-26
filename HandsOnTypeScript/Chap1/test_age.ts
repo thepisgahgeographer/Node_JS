@@ -32,7 +32,10 @@ function canDrive(usr: User) {
 //function canDrive
 const Yuri: User = {
     name: "Yuri",
-    age:37
+    age: 37
 }
 
 canDrive(Yuri);
+
+let test: string = "Yuri";
+

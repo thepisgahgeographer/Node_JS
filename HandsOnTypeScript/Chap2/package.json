@@ -1,7 +1,6 @@
 {
-  "name": "chap1",
+  "name": "chap2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,10 @@
   "bugs": {
     "url": "https://github.com/thepisgahgeographer/Node_JS/issues"
   },
-  "homepage": "https://github.com/thepisgahgeographer/Node_JS#readme"
+  "homepage": "https://github.com/thepisgahgeographer/Node_JS#readme",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {},
+  "description": ""
 }
