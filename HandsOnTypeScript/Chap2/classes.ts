@@ -27,6 +27,6 @@ class Speaker {
         this.message = tmpMessage;
     }
 }
-const speaker = new Speaker("john");
+const speaker = new Speaker("Yuri");
 speaker.Message = "hello";
 console.log(speaker.Message);
