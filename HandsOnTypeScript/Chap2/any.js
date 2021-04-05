@@ -13,3 +13,9 @@ else {
     console.log("False");
 }
 console.log(val);
+var variable = "Yuri";
+var vars = {
+    name: "Yuri",
+    bike: "Ragley"
+};
+console.log(vars);

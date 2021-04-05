@@ -17,3 +17,12 @@ else{
 }
 
 console.log(val);
+
+let variable: string = "Yuri";
+let vars:{name: string} | {bike:string} = {
+    name: "Yuri",
+    bike: "Ragley"
+};
+
+
+console.log(vars);
